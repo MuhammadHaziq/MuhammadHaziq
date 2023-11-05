@@ -37,7 +37,7 @@
         </tr>
        <tr>
              <td>
-                <a href="https://github.com/MuhammadHaziqInsuranceMarket"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadHaziqInsuranceMarket&count_private=true&theme=radical&include_all_commits=true"/></a>
+                <a href="https://github.com/MuhammadHaziqInsuranceMarket"><img alt="github stats" src="./Screenshot from 2023-11-05 17-27-27.png"/></a>
             </td>
         </tr> 
     </table>
